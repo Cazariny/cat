@@ -2,7 +2,7 @@ This is the ultimate project from the fullstack web development nanodegree
 
 This webserver was made in digitalocean 
 
-The ip of the project is 157.230.144.83 and its on port 80
+The ip of the project is 157.230.144.83 and connects on port 2200
 but you can access to it (and I suggest you to do so ) from _**http://catalogos.me**_
 
 
